@@ -1,7 +1,7 @@
 name: BERLO
 favicon: null
-layout_spectrum: 0.9443994755856693
-typography_spectrum: 0.17057256517000496
+layout_spectrum: 1
+typography_spectrum: 0.63305
 cta:
   domain: null
   bucket: null
