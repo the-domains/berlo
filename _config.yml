@@ -2,6 +2,7 @@ name: BERLO
 favicon: null
 layout_spectrum: 0.25006
 typography_spectrum: 0.40807
+title: BERLO
 cta:
   domain: null
   bucket: null
