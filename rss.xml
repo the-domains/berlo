@@ -4,8 +4,15 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 12:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 13:39:52 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About BerloAtelier]]></title>
+            <description><![CDATA[<article><h1>About BerloAtelier</h1><p>Eugen Bogdan Berlo</p></article>]]></description>
+            <link>http://berlo.net/about-berloatelier/index.html</link>
+            <guid isPermaLink="false">95c659e9-76dc-427b-a5a1-c6d1b5dfd20f</guid>
+            <pubDate>Sat, 16 Jan 2016 13:39:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2c2eac-7c82-4839-9007-8c7d973ff5a3.jpg">]]></description>
