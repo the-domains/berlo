@@ -1,6 +1,6 @@
 name: BERLO
 favicon: null
-layout_spectrum: 0.25138
+layout_spectrum: 1
 typography_spectrum: 0.79263
 title: BerloAtelier
 cta:
@@ -24,6 +24,6 @@ color:
     - '#a29e9c'
   brandStrength: 1
   lightness: 1
-  saturation: 0.75
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
