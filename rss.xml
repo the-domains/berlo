@@ -4,8 +4,15 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 19:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 19:47:53 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cloșca]]></title>
+            <description><![CDATA[<article><h1>Cloșca</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/639f3f79-2b6a-4f41-a1f1-f8af662d2c6f.jpg"></article>]]></description>
+            <link>http://berlo.net/closca/index.html</link>
+            <guid isPermaLink="false">6fcdfc1b-e862-4e5d-83cf-6edf6b4a2e1f</guid>
+            <pubDate>Sun, 17 Jan 2016 19:47:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2c2eac-7c82-4839-9007-8c7d973ff5a3.jpg">]]></description>
