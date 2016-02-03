@@ -2,56 +2,49 @@
     <channel>
         <title><![CDATA[BerloAtelier]]></title>
         <description><![CDATA[BerloAtelier]]></description>
-        <link>http://berlo.net/</link>
+        <link>https://thegrid.ai/berlo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 19:40:31 GMT</lastBuildDate>
-        <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 16:15:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/berlo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cloșca]]></title>
-            <description><![CDATA[<article><h1>Cloșca</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/542a51df16a47752d39fb7e852b3f0ff8411facb.jpg"></article>]]></description>
-            <link>http://berlo.net/closca/index.html</link>
+            <description><![CDATA[<article><h1>Cloșca</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2b0cf07c6d48f11a15780e3ab886fe7a6ceef80.jpg"></article>]]></description>
+            <link>https://thegrid.ai/berlo/closca/index.html</link>
             <guid isPermaLink="false">6fcdfc1b-e862-4e5d-83cf-6edf6b4a2e1f</guid>
             <pubDate>Mon, 18 Jan 2016 19:39:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>BerloAtelier</p></article>]]></description>
-            <link>http://berlo.net/about-berloatelier/index.html</link>
-            <guid isPermaLink="false">95c659e9-76dc-427b-a5a1-c6d1b5dfd20f</guid>
-            <pubDate>Mon, 18 Jan 2016 13:42:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<article><h1>Contact</h1><p>Contact us at jointventure @ my site address</p></article>]]></description>
-            <link>http://berlo.net/7f835790-c3db-416f-bd92-9c16a2ded907/index.html</link>
+            <link>https://thegrid.ai/berlo/7f835790-c3db-416f-bd92-9c16a2ded907/index.html</link>
             <guid isPermaLink="false">7f835790-c3db-416f-bd92-9c16a2ded907</guid>
             <pubDate>Sun, 17 Jan 2016 20:07:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Roberto Rabanne Snowboards]]></title>
             <description><![CDATA[<article><h1>Roberto Rabanne Snowboards</h1><p>Roberto Rabanne & BerloAtelier Snowboards</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40916b44031c856854282888b84583b3ceba7386.jpg"></article>]]></description>
-            <link>http://berlo.net/roberto-rabanne-snowboards/index.html</link>
+            <link>https://thegrid.ai/berlo/roberto-rabanne-snowboards/index.html</link>
             <guid isPermaLink="false">c4c263f6-6ff2-4783-b552-ce2c1490959b</guid>
             <pubDate>Sun, 17 Jan 2016 19:52:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2c2eac-7c82-4839-9007-8c7d973ff5a3.jpg">]]></description>
-            <link>http://berlo.net/47f35c16-3e81-4c14-9713-e43cc9e4c603/index.html</link>
+            <link>https://thegrid.ai/berlo/47f35c16-3e81-4c14-9713-e43cc9e4c603/index.html</link>
             <guid isPermaLink="false">47f35c16-3e81-4c14-9713-e43cc9e4c603</guid>
             <pubDate>Sat, 16 Jan 2016 01:12:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/967e17bf-ecaa-4408-8d2f-87f0cd4ce081.jpg">]]></description>
-            <link>http://berlo.net/96b1cdc0-4904-45b8-9d04-488cfd28e4a5/index.html</link>
+            <link>https://thegrid.ai/berlo/96b1cdc0-4904-45b8-9d04-488cfd28e4a5/index.html</link>
             <guid isPermaLink="false">96b1cdc0-4904-45b8-9d04-488cfd28e4a5</guid>
             <pubDate>Sat, 16 Jan 2016 01:05:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Revolving Perishable Stool ]]></title>
             <description><![CDATA[<article><h1>Revolving Perishable Stool </h1><p>Revolving Perishable Stool </p></article>]]></description>
-            <link>http://berlo.net/revolving-perishable-stool/index.html</link>
+            <link>https://thegrid.ai/berlo/revolving-perishable-stool/index.html</link>
             <guid isPermaLink="false">b4f44ee7-fee8-452f-a2bb-3040f7567a98</guid>
             <pubDate>Sat, 16 Jan 2016 01:03:13 GMT</pubDate>
         </item>
