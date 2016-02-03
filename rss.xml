@@ -4,7 +4,7 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>https://thegrid.ai/berlo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 17:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 17:09:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/berlo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cloșca]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/berlo/closca/index.html</link>
             <guid isPermaLink="false">6fcdfc1b-e862-4e5d-83cf-6edf6b4a2e1f</guid>
             <pubDate>Wed, 03 Feb 2016 17:08:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Contact us at jointventure @ my site address</p></article>]]></description>
+            <link>https://thegrid.ai/berlo/7f835790-c3db-416f-bd92-9c16a2ded907/index.html</link>
+            <guid isPermaLink="false">7f835790-c3db-416f-bd92-9c16a2ded907</guid>
+            <pubDate>Sun, 17 Jan 2016 20:07:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Roberto Rabanne Snowboards]]></title>
