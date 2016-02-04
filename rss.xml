@@ -4,7 +4,7 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>https://thegrid.ai/berlo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 17:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 17:08:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/berlo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cloșca]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/berlo/closca/index.html</link>
             <guid isPermaLink="false">6fcdfc1b-e862-4e5d-83cf-6edf6b4a2e1f</guid>
             <pubDate>Wed, 03 Feb 2016 17:08:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ab5c64d-21ca-47d4-ac06-2b5b277d6323.jpg">]]></description>
+            <link>https://thegrid.ai/berlo/b9423972-59b6-4adf-895a-6a20788e2a4d/index.html</link>
+            <guid isPermaLink="false">b9423972-59b6-4adf-895a-6a20788e2a4d</guid>
+            <pubDate>Thu, 04 Feb 2016 17:08:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
