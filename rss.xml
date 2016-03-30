@@ -2,79 +2,79 @@
     <channel>
         <title><![CDATA[BerloAtelier]]></title>
         <description><![CDATA[BerloAtelier]]></description>
-        <link>https://thegrid.ai/berlo/</link>
+        <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 13:00:22 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/berlo/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 09:41:31 GMT</lastBuildDate>
+        <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f271b3-d3b7-4b9f-bef5-768c3fb9a2c5.jpg" alt="" title="" />]]></description>
+            <link>http://berlo.net/b0d9ae50-0b8a-4515-a96d-00debc73cd16/index.html</link>
+            <guid isPermaLink="false">b0d9ae50-0b8a-4515-a96d-00debc73cd16</guid>
+            <pubDate>Wed, 30 Mar 2016 09:39:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c0d0cac-ae35-4e74-91c9-89eea206562c.jpg">]]></description>
+            <link>http://berlo.net/linocut-pressed-animals/index.html</link>
+            <guid isPermaLink="false">85a7b117-53a4-4b42-be0d-2fb74c2272f0</guid>
+            <pubDate>Sat, 26 Mar 2016 13:01:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d8bee41-f268-403a-bd23-81c001194997.jpg">]]></description>
-            <link>https://thegrid.ai/berlo/c66609b0-5498-427b-bf67-1d02e67cea1b/index.html</link>
+            <link>http://berlo.net/c66609b0-5498-427b-bf67-1d02e67cea1b/index.html</link>
             <guid isPermaLink="false">c66609b0-5498-427b-bf67-1d02e67cea1b</guid>
             <pubDate>Sat, 26 Mar 2016 12:58:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0eabb6c3-755d-487a-8f04-7f3cda169dcc.jpg">]]></description>
-            <link>https://thegrid.ai/berlo/snow-3/index.html</link>
+            <link>http://berlo.net/snow-3/index.html</link>
             <guid isPermaLink="false">9a6abab6-f033-4a77-921b-823b77c15827</guid>
             <pubDate>Sat, 26 Mar 2016 12:58:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/249fb6d1-d717-4ce2-b837-aa14ab0b58d6.jpg">]]></description>
-            <link>https://thegrid.ai/berlo/architectural-legacy/index.html</link>
+            <link>http://berlo.net/architectural-legacy/index.html</link>
             <guid isPermaLink="false">94e8870f-7e9a-42c9-a961-443d24af1bba</guid>
             <pubDate>Wed, 23 Mar 2016 12:38:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e0489e995568a5847630fc8a28773b40f8b1b68.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/berlo/5733e387-3f8f-4fdd-81f7-a150bc774497/index.html</link>
+            <link>http://berlo.net/5733e387-3f8f-4fdd-81f7-a150bc774497/index.html</link>
             <guid isPermaLink="false">5733e387-3f8f-4fdd-81f7-a150bc774497</guid>
             <pubDate>Wed, 23 Mar 2016 09:18:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/011f5c89-5826-414d-9daa-dc4e469e4e13.jpg">]]></description>
-            <link>https://thegrid.ai/berlo/snow-space-ship/index.html</link>
+            <link>http://berlo.net/snow-space-ship/index.html</link>
             <guid isPermaLink="false">2bee42c1-d98f-4e75-b7c0-5e1430de88af</guid>
             <pubDate>Tue, 22 Mar 2016 22:04:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2089da40-db04-4af8-b3c3-fbb315bfd9ff.jpg">]]></description>
-            <link>https://thegrid.ai/berlo/4d0f62d2-02c6-4cd2-970d-1a4933b00472/index.html</link>
+            <link>http://berlo.net/4d0f62d2-02c6-4cd2-970d-1a4933b00472/index.html</link>
             <guid isPermaLink="false">4d0f62d2-02c6-4cd2-970d-1a4933b00472</guid>
             <pubDate>Tue, 22 Mar 2016 21:53:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cloșca]]></title>
             <description><![CDATA[<article><h1>Cloșca</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/952996901adf502d5de613f153d75586e01d42f7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/berlo/closca/index.html</link>
+            <link>http://berlo.net/closca/index.html</link>
             <guid isPermaLink="false">6fcdfc1b-e862-4e5d-83cf-6edf6b4a2e1f</guid>
             <pubDate>Fri, 05 Feb 2016 18:49:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1605d1193fcf384a6b29d7760b00d844330a7d7.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/berlo/b9423972-59b6-4adf-895a-6a20788e2a4d/index.html</link>
+            <link>http://berlo.net/b9423972-59b6-4adf-895a-6a20788e2a4d/index.html</link>
             <guid isPermaLink="false">b9423972-59b6-4adf-895a-6a20788e2a4d</guid>
             <pubDate>Fri, 05 Feb 2016 18:50:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roberto Rabanne Snowboards]]></title>
-            <description><![CDATA[<article><h1>Roberto Rabanne Snowboards</h1><p>Roberto Rabanne & BerloAtelier Snowboards</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06148b615fa26670aed0300f597b94fda4fd73a2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/berlo/roberto-rabanne-snowboards/index.html</link>
-            <guid isPermaLink="false">c4c263f6-6ff2-4783-b552-ce2c1490959b</guid>
-            <pubDate>Tue, 22 Mar 2016 17:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revolving Perishable Stool ]]></title>
-            <description><![CDATA[<article><h1>Revolving Perishable Stool </h1><p>Revolving Perishable Stool </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9e87970-fb45-46e9-816d-41a70cca3bae.jpg"></article>]]></description>
-            <link>https://thegrid.ai/berlo/revolving-perishable-stool/index.html</link>
-            <guid isPermaLink="false">b4f44ee7-fee8-452f-a2bb-3040f7567a98</guid>
-            <pubDate>Tue, 22 Mar 2016 18:24:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
