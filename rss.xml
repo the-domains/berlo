@@ -4,8 +4,15 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 09:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 17:09:36 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70e987cc-9c99-4e4b-a37f-6a7d30d6edd5.jpg">]]></description>
+            <link>http://berlo.net/f19f81bc-d1b8-45f2-890b-d3bcd2cff2be/index.html</link>
+            <guid isPermaLink="false">f19f81bc-d1b8-45f2-890b-d3bcd2cff2be</guid>
+            <pubDate>Wed, 30 Mar 2016 17:08:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e471fd3a-3e74-47d8-b02a-83586186ba6b.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://berlo.net/4d0f62d2-02c6-4cd2-970d-1a4933b00472/index.html</link>
             <guid isPermaLink="false">4d0f62d2-02c6-4cd2-970d-1a4933b00472</guid>
             <pubDate>Tue, 22 Mar 2016 21:53:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cloșca]]></title>
-            <description><![CDATA[<article><h1>Cloșca</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/952996901adf502d5de613f153d75586e01d42f7.jpg"></article>]]></description>
-            <link>http://berlo.net/closca/index.html</link>
-            <guid isPermaLink="false">6fcdfc1b-e862-4e5d-83cf-6edf6b4a2e1f</guid>
-            <pubDate>Fri, 05 Feb 2016 18:49:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
