@@ -1,41 +1,41 @@
-name: Berlo
-favicon: null
-layout_spectrum: 0.8984
-typography_spectrum: 0.30388
 title: BerloAtelier
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-634542-13
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.5
+  brandStrength: 0
+  rhythmicContrast: 0
   brandColors:
     - '#fdfdfb'
     - '#0d0c11'
     - '#44434a'
     - '#7a797b'
     - '#c0bec2'
-  brandStrength: 0
   lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-634542-13
+  facebook: null
+name: Berlo
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.30388
+layout_spectrum: 0.03829787
