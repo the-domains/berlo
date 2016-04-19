@@ -4,8 +4,15 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 17:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 17:27:15 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Snow 3]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0eabb6c3-755d-487a-8f04-7f3cda169dcc.jpg">]]></description>
+            <link>http://berlo.net/snow-3/index.html</link>
+            <guid isPermaLink="false">9a6abab6-f033-4a77-921b-823b77c15827</guid>
+            <pubDate>Tue, 19 Apr 2016 17:26:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dynamic Fields]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e0489e995568a5847630fc8a28773b40f8b1b68.jpg" alt="" title="">]]></description>
@@ -33,13 +40,6 @@
             <link>http://berlo.net/4d0f62d2-02c6-4cd2-970d-1a4933b00472/index.html</link>
             <guid isPermaLink="false">4d0f62d2-02c6-4cd2-970d-1a4933b00472</guid>
             <pubDate>Tue, 19 Apr 2016 17:22:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Snow 3]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0eabb6c3-755d-487a-8f04-7f3cda169dcc.jpg">]]></description>
-            <link>http://berlo.net/snow-3/index.html</link>
-            <guid isPermaLink="false">9a6abab6-f033-4a77-921b-823b77c15827</guid>
-            <pubDate>Tue, 19 Apr 2016 17:22:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Architectural Legacy - Eugen Berlo]]></title>
