@@ -5,24 +5,26 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Architectural Legacy
-datePublished: '2016-03-23T12:38:21.357Z'
-dateModified: '2016-03-23T12:37:56.695Z'
+description: Architectural Legacy - Eugen Berlo (Genu)
+datePublished: '2016-04-19T17:21:51.455Z'
+dateModified: '2016-04-19T17:21:11.792Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-23-architectural-legacy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-architectural-legacy.md
-published: true
 url: architectural-legacy/index.html
 _type: Article
 
 ---
-Architectural Legacy
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e3a78f3-ad2b-45ab-834d-ece46494adbd.jpg)
+
+Architectural Legacy - Eugen Berlo (Genu)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c76c96c0-4eff-4535-a262-49bd62a6915e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/249fb6d1-d717-4ce2-b837-aa14ab0b58d6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0dbdab77-b411-45db-9b3b-cdc38a7b180e.jpg)
@@ -57,6 +59,7 @@ Architectural Legacy
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b984061-fdb2-4c23-824d-8abeb6dc9448.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c42ecc2-a83c-4eed-bd67-3651a3430147.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e8ff29e-74cc-49fa-8637-e2b68e4b8830.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e3a78f3-ad2b-45ab-834d-ece46494adbd.jpg)
+
+  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/730c0c6c-9ac7-471c-96e8-08ec9518bc9e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a63b3749-254a-4c6f-9fd2-e53c29b02dd5.jpg)
