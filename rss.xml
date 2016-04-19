@@ -4,8 +4,15 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 17:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 17:25:58 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dynamic Fields]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e0489e995568a5847630fc8a28773b40f8b1b68.jpg" alt="" title="">]]></description>
+            <link>http://berlo.net/5733e387-3f8f-4fdd-81f7-a150bc774497/index.html</link>
+            <guid isPermaLink="false">5733e387-3f8f-4fdd-81f7-a150bc774497</guid>
+            <pubDate>Tue, 19 Apr 2016 17:25:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Snow Spaceship]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/011f5c89-5826-414d-9daa-dc4e469e4e13.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://berlo.net/c66609b0-5498-427b-bf67-1d02e67cea1b/index.html</link>
             <guid isPermaLink="false">c66609b0-5498-427b-bf67-1d02e67cea1b</guid>
             <pubDate>Tue, 19 Apr 2016 17:16:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frolic]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f271b3-d3b7-4b9f-bef5-768c3fb9a2c5.jpg" alt="" title="">]]></description>
-            <link>http://berlo.net/b0d9ae50-0b8a-4515-a96d-00debc73cd16/index.html</link>
-            <guid isPermaLink="false">b0d9ae50-0b8a-4515-a96d-00debc73cd16</guid>
-            <pubDate>Tue, 19 Apr 2016 17:14:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
