@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Linocut pressed animals
-datePublished: '2016-04-19T16:42:49.187Z'
-dateModified: '2016-04-19T16:42:45.488Z'
+description: 'Linocut pressed archetypical life '
+datePublished: '2016-04-19T17:16:23.126Z'
+dateModified: '2016-04-19T17:15:32.045Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-26-linocut-pressed-animals.md
@@ -24,8 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e24c4a-03d5-47b8-8ef9-9751205a0f0f.jpg)
 
-Linocut pressed animals
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c0d0cac-ae35-4e74-91c9-89eea206562c.jpg)
+Linocut pressed archetypical life ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c0d0cac-ae35-4e74-91c9-89eea206562c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1325cd1-3a54-4cc7-9148-623063a36641.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a16685e0-7050-4125-9d3a-2134446f131d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bca0510-016d-4f22-bcc2-497626607f04.jpg)
