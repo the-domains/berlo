@@ -4,8 +4,22 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 17:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 17:17:29 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Linocut pressed archetypical life ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c0d0cac-ae35-4e74-91c9-89eea206562c.jpg">]]></description>
+            <link>http://berlo.net/linocut-pressed-animals/index.html</link>
+            <guid isPermaLink="false">85a7b117-53a4-4b42-be0d-2fb74c2272f0</guid>
+            <pubDate>Tue, 19 Apr 2016 17:16:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frisk]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e471fd3a-3e74-47d8-b02a-83586186ba6b.jpg" alt="" title="">]]></description>
+            <link>http://berlo.net/56d6ff83-d4cf-4bf0-b4e9-2cbd77faf12c/index.html</link>
+            <guid isPermaLink="false">56d6ff83-d4cf-4bf0-b4e9-2cbd77faf12c</guid>
+            <pubDate>Tue, 19 Apr 2016 17:16:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Snow Sitting ]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d8bee41-f268-403a-bd23-81c001194997.jpg">]]></description>
@@ -36,13 +50,6 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c0d0cac-ae35-4e74-91c9-89eea206562c.jpg">]]></description>
-            <link>http://berlo.net/linocut-pressed-animals/index.html</link>
-            <guid isPermaLink="false">85a7b117-53a4-4b42-be0d-2fb74c2272f0</guid>
-            <pubDate>Tue, 19 Apr 2016 16:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2089da40-db04-4af8-b3c3-fbb315bfd9ff.jpg">]]></description>
             <link>http://berlo.net/4d0f62d2-02c6-4cd2-970d-1a4933b00472/index.html</link>
             <guid isPermaLink="false">4d0f62d2-02c6-4cd2-970d-1a4933b00472</guid>
@@ -68,13 +75,6 @@
             <link>http://berlo.net/platonic-solids-sculptures-by-tetteh-tawiah-with-support-fro/index.html</link>
             <guid isPermaLink="false">0a6e6029-58cc-4f14-8f08-653d084f881d</guid>
             <pubDate>Thu, 07 Apr 2016 09:02:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e471fd3a-3e74-47d8-b02a-83586186ba6b.jpg" alt="" title="">]]></description>
-            <link>http://berlo.net/56d6ff83-d4cf-4bf0-b4e9-2cbd77faf12c/index.html</link>
-            <guid isPermaLink="false">56d6ff83-d4cf-4bf0-b4e9-2cbd77faf12c</guid>
-            <pubDate>Wed, 30 Mar 2016 09:46:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
