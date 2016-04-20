@@ -4,8 +4,15 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 08:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 08:11:23 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Linocut pressed archetypical life]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c0d0cac-ae35-4e74-91c9-89eea206562c.jpg">]]></description>
+            <link>http://berlo.net/linocut-pressed-animals/index.html</link>
+            <guid isPermaLink="false">85a7b117-53a4-4b42-be0d-2fb74c2272f0</guid>
+            <pubDate>Wed, 20 Apr 2016 08:11:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Frolic]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f271b3-d3b7-4b9f-bef5-768c3fb9a2c5.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://berlo.net/b9423972-59b6-4adf-895a-6a20788e2a4d/index.html</link>
             <guid isPermaLink="false">b9423972-59b6-4adf-895a-6a20788e2a4d</guid>
             <pubDate>Tue, 19 Apr 2016 17:24:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smoke-Fire Sequence]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2089da40-db04-4af8-b3c3-fbb315bfd9ff.jpg">]]></description>
-            <link>http://berlo.net/4d0f62d2-02c6-4cd2-970d-1a4933b00472/index.html</link>
-            <guid isPermaLink="false">4d0f62d2-02c6-4cd2-970d-1a4933b00472</guid>
-            <pubDate>Tue, 19 Apr 2016 17:22:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
