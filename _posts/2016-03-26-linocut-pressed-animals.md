@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Linocut pressed archetypical life '
-datePublished: '2016-04-19T17:16:23.126Z'
-dateModified: '2016-04-19T17:15:32.045Z'
+datePublished: '2016-04-20T08:11:04.078Z'
+dateModified: '2016-04-20T08:11:03.327Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-26-linocut-pressed-animals.md
