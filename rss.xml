@@ -4,8 +4,15 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 08:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 08:11:12 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frolic]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f271b3-d3b7-4b9f-bef5-768c3fb9a2c5.jpg" alt="" title="">]]></description>
+            <link>http://berlo.net/b0d9ae50-0b8a-4515-a96d-00debc73cd16/index.html</link>
+            <guid isPermaLink="false">b0d9ae50-0b8a-4515-a96d-00debc73cd16</guid>
+            <pubDate>Wed, 20 Apr 2016 08:10:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Frisk]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e471fd3a-3e74-47d8-b02a-83586186ba6b.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://berlo.net/4d0f62d2-02c6-4cd2-970d-1a4933b00472/index.html</link>
             <guid isPermaLink="false">4d0f62d2-02c6-4cd2-970d-1a4933b00472</guid>
             <pubDate>Tue, 19 Apr 2016 17:22:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Architectural Legacy - Eugen Berlo]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/249fb6d1-d717-4ce2-b837-aa14ab0b58d6.jpg">]]></description>
-            <link>http://berlo.net/architectural-legacy/index.html</link>
-            <guid isPermaLink="false">94e8870f-7e9a-42c9-a961-443d24af1bba</guid>
-            <pubDate>Tue, 19 Apr 2016 17:21:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
