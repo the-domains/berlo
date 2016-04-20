@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Platonic Solids Sculptures by Tetteh Tawiah with support from BerloAtelier '
-datePublished: '2016-04-19T17:18:12.031Z'
-dateModified: '2016-04-19T17:18:03.805Z'
+datePublished: '2016-04-20T08:09:44.458Z'
+dateModified: '2016-04-20T08:09:39.915Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-platonic-solids-sculptures-by-tetteh-tawiah-with-support-fro.md
