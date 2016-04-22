@@ -4,8 +4,15 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 13:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 13:21:31 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cloșca]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9d705fcfb67d484666bc73bbe92cc0c61f60e8d.jpg" alt="" title="">]]></description>
+            <link>http://berlo.net/closca/index.html</link>
+            <guid isPermaLink="false">6fcdfc1b-e862-4e5d-83cf-6edf6b4a2e1f</guid>
+            <pubDate>Fri, 22 Apr 2016 13:19:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Snow Spaceship]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/011f5c89-5826-414d-9daa-dc4e469e4e13.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://berlo.net/platonic-solids-sculptures-by-tetteh-tawiah-with-support-fro/index.html</link>
             <guid isPermaLink="false">0a6e6029-58cc-4f14-8f08-653d084f881d</guid>
             <pubDate>Wed, 20 Apr 2016 08:09:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revolving Perishable Stool ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9e87970-fb45-46e9-816d-41a70cca3bae.jpg">]]></description>
-            <link>http://berlo.net/revolving-perishable-stool/index.html</link>
-            <guid isPermaLink="false">b4f44ee7-fee8-452f-a2bb-3040f7567a98</guid>
-            <pubDate>Tue, 19 Apr 2016 17:44:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
