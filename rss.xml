@@ -4,8 +4,15 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 14:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 14:05:12 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Smoke-Fire Sequence]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2089da40-db04-4af8-b3c3-fbb315bfd9ff.jpg">]]></description>
+            <link>http://berlo.net/4d0f62d2-02c6-4cd2-970d-1a4933b00472/index.html</link>
+            <guid isPermaLink="false">4d0f62d2-02c6-4cd2-970d-1a4933b00472</guid>
+            <pubDate>Fri, 22 Apr 2016 14:05:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cloșca]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb287f0cba36ce221ba8aa139596a819a193ae06.jpg" alt="" title="">]]></description>
@@ -19,13 +26,6 @@
             <link>http://berlo.net/5733e387-3f8f-4fdd-81f7-a150bc774497/index.html</link>
             <guid isPermaLink="false">5733e387-3f8f-4fdd-81f7-a150bc774497</guid>
             <pubDate>Fri, 22 Apr 2016 14:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smoke-Fire Sequence]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2089da40-db04-4af8-b3c3-fbb315bfd9ff.jpg">]]></description>
-            <link>http://berlo.net/4d0f62d2-02c6-4cd2-970d-1a4933b00472/index.html</link>
-            <guid isPermaLink="false">4d0f62d2-02c6-4cd2-970d-1a4933b00472</guid>
-            <pubDate>Fri, 22 Apr 2016 14:02:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Snow Spaceship]]></title>
