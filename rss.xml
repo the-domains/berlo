@@ -4,8 +4,15 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 14:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 11:50:55 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Revolving Perishable Stool ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9e87970-fb45-46e9-816d-41a70cca3bae.jpg">]]></description>
+            <link>http://berlo.net/revolving-perishable-stool/index.html</link>
+            <guid isPermaLink="false">b4f44ee7-fee8-452f-a2bb-3040f7567a98</guid>
+            <pubDate>Sun, 08 May 2016 11:50:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Smoke-Fire Sequence]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2089da40-db04-4af8-b3c3-fbb315bfd9ff.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://berlo.net/56d6ff83-d4cf-4bf0-b4e9-2cbd77faf12c/index.html</link>
             <guid isPermaLink="false">56d6ff83-d4cf-4bf0-b4e9-2cbd77faf12c</guid>
             <pubDate>Wed, 20 Apr 2016 08:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Entropy 9]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70e987cc-9c99-4e4b-a37f-6a7d30d6edd5.jpg" alt="" title="">]]></description>
-            <link>http://berlo.net/f19f81bc-d1b8-45f2-890b-d3bcd2cff2be/index.html</link>
-            <guid isPermaLink="false">f19f81bc-d1b8-45f2-890b-d3bcd2cff2be</guid>
-            <pubDate>Wed, 20 Apr 2016 08:10:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
