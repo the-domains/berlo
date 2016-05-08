@@ -4,8 +4,15 @@
         <description><![CDATA[BerloAtelier]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 12:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 12:05:17 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Untitled 2 leg erection]]></title>
+            <description><![CDATA[<p>Untitled 2 leg erection</p>]]></description>
+            <link>http://berlo.net/untitled-2-leg-erection/index.html</link>
+            <guid isPermaLink="false">436c4dba-fb3d-4e38-a4f4-7d5469e262b5</guid>
+            <pubDate>Sun, 08 May 2016 12:04:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Untitled 1 leg erection]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/190837d9-9864-4bdd-a113-72004fafbcef.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://berlo.net/linocut-pressed-animals/index.html</link>
             <guid isPermaLink="false">85a7b117-53a4-4b42-be0d-2fb74c2272f0</guid>
             <pubDate>Wed, 20 Apr 2016 08:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frolic]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f271b3-d3b7-4b9f-bef5-768c3fb9a2c5.jpg" alt="" title="">]]></description>
-            <link>http://berlo.net/b0d9ae50-0b8a-4515-a96d-00debc73cd16/index.html</link>
-            <guid isPermaLink="false">b0d9ae50-0b8a-4515-a96d-00debc73cd16</guid>
-            <pubDate>Wed, 20 Apr 2016 08:10:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
