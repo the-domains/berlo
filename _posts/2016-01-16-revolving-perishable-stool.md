@@ -3,21 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: 'Revolving Perishable Stool '
-datePublished: '2016-04-19T17:44:27.152Z'
-dateModified: '2016-04-19T17:44:10.068Z'
+datePublished: '2016-05-08T11:50:16.358Z'
+dateModified: '2016-05-08T11:50:07.868Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-16-revolving-perishable-stool.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: revolving-perishable-stool/index.html
 _type: Article
 
@@ -32,6 +31,8 @@ Revolving Perishable Stool
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa8e3df0-0de7-44d3-8db3-7a008d06342e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8159eb9e-8118-44e2-88f4-24f11c99793d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0eb1744e-07f0-4670-be18-0834f8883601.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4911086-f701-4740-b7c9-2cd959c8759c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf43586-d96d-4f17-90d0-36174af1aa36.jpg)
 
 Regia:  Mihai Alexandru Ion
 
