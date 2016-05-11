@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Ii Românești - Ia Românească
-datePublished: '2016-05-09T15:28:47.232Z'
-dateModified: '2016-05-09T15:28:43.127Z'
+datePublished: '2016-05-11T16:05:16.912Z'
+dateModified: '2016-05-11T16:05:12.419Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-09-ii-romanesti.md
 authors: []
 publisher:
@@ -22,7 +24,7 @@ _type: Article
 
 ---
 Ii Românești - Ia Românească
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fd6aceb-c7a8-4125-ad86-3611e3e6dc03.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6572a08df67a4af27ee4cdc2371fe7c00e2810d7.jpg)
 
 See also my design:
 
