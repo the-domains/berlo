@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Untitled 1 leg Paratrasnet
-datePublished: '2016-05-09T15:26:33.653Z'
-dateModified: '2016-05-09T15:26:30.629Z'
+description: Untitled Perishable Lightning Rod
+datePublished: '2016-05-11T16:06:37.886Z'
+dateModified: '2016-05-11T16:06:32.496Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-08-untitled-1-leg-erection.md
@@ -24,6 +24,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/190837d9-9864-4bdd-a113-72004fafbcef.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5c77b96-8858-4041-83d0-87cd90083eb3.jpg)
 
-Untitled 1 leg Paratrasnet
+Untitled Perishable Lightning Rod
 
 Genu - 2016
