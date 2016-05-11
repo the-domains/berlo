@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Untitled Perishable Lightning Rod
-datePublished: '2016-05-11T16:06:37.886Z'
-dateModified: '2016-05-11T16:06:32.496Z'
+datePublished: '2016-05-11T16:25:18.838Z'
+dateModified: '2016-05-11T16:25:12.482Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-08-untitled-1-leg-erection.md
@@ -25,5 +25,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5c77b96-8858-4041-83d0-87cd90083eb3.jpg)
 
 Untitled Perishable Lightning Rod
+
+Ghirdoveni Art Installation
 
 Genu - 2016
