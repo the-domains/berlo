@@ -4,8 +4,15 @@
         <description><![CDATA[Berlo]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 08:41:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 08:42:38 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cloșca lui Noe]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb287f0cba36ce221ba8aa139596a819a193ae06.jpg" alt="" title="">]]></description>
+            <link>http://berlo.net/closca/index.html</link>
+            <guid isPermaLink="false">6fcdfc1b-e862-4e5d-83cf-6edf6b4a2e1f</guid>
+            <pubDate>Tue, 31 May 2016 08:42:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Relocation of the Egyptian Sphinx]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/011f5c89-5826-414d-9daa-dc4e469e4e13.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://berlo.net/revolving-perishable-stool/index.html</link>
             <guid isPermaLink="false">b4f44ee7-fee8-452f-a2bb-3040f7567a98</guid>
             <pubDate>Sun, 08 May 2016 11:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smoke-Fire Sequence]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2089da40-db04-4af8-b3c3-fbb315bfd9ff.jpg">]]></description>
-            <link>http://berlo.net/4d0f62d2-02c6-4cd2-970d-1a4933b00472/index.html</link>
-            <guid isPermaLink="false">4d0f62d2-02c6-4cd2-970d-1a4933b00472</guid>
-            <pubDate>Fri, 22 Apr 2016 14:05:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
