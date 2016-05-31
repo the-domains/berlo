@@ -4,8 +4,15 @@
         <description><![CDATA[Berlo]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 18:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 08:41:33 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Relocation of the Egyptian Sphinx]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/011f5c89-5826-414d-9daa-dc4e469e4e13.jpg">]]></description>
+            <link>http://berlo.net/snow-space-ship/index.html</link>
+            <guid isPermaLink="false">2bee42c1-d98f-4e75-b7c0-5e1430de88af</guid>
+            <pubDate>Tue, 31 May 2016 08:41:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Magnetic bipolar coupling Frolic]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f271b3-d3b7-4b9f-bef5-768c3fb9a2c5.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://berlo.net/4d0f62d2-02c6-4cd2-970d-1a4933b00472/index.html</link>
             <guid isPermaLink="false">4d0f62d2-02c6-4cd2-970d-1a4933b00472</guid>
             <pubDate>Fri, 22 Apr 2016 14:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cloșca]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb287f0cba36ce221ba8aa139596a819a193ae06.jpg" alt="" title="">]]></description>
-            <link>http://berlo.net/closca/index.html</link>
-            <guid isPermaLink="false">6fcdfc1b-e862-4e5d-83cf-6edf6b4a2e1f</guid>
-            <pubDate>Fri, 22 Apr 2016 14:04:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
