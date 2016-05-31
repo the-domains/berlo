@@ -4,25 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Snow Spaceship
-datePublished: '2016-04-22T13:19:01.000Z'
-dateModified: '2016-04-22T13:18:53.679Z'
+description: Relocation of the Egyptian Sphinx
+datePublished: '2016-05-31T08:41:22.467Z'
+dateModified: '2016-05-31T08:41:17.643Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-22-snow-space-ship.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: snow-space-ship/index.html
 _type: Article
 
 ---
-Snow Spaceship
+Relocation of the Egyptian Sphinx
 
 Herastrau Park Bucuresti 2014
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/092a8a32-5a25-4ccf-9686-8b558fdf9350.jpg)
