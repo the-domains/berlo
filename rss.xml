@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Berlo]]></title>
-        <description><![CDATA[Berlo]]></description>
+        <title><![CDATA[Genu]]></title>
+        <description><![CDATA[Genu]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 13:53:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 17:21:45 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Genu (Eugen Berlo)]]></title>
+            <description><![CDATA[<p>Genu (Eugen Berlo)</p>]]></description>
+            <link>http://berlo.net/genu-eugen-berlo/index.html</link>
+            <guid isPermaLink="false">95c659e9-76dc-427b-a5a1-c6d1b5dfd20f</guid>
+            <pubDate>Fri, 10 Jun 2016 17:20:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Arca lui Noe Snow Sculpture]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb287f0cba36ce221ba8aa139596a819a193ae06.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://berlo.net/ii-romanesti/index.html</link>
             <guid isPermaLink="false">ded4ee7d-4588-4340-8808-65bd9638394e</guid>
             <pubDate>Wed, 11 May 2016 16:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revolving Perishable Stool ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9e87970-fb45-46e9-816d-41a70cca3bae.jpg">]]></description>
-            <link>http://berlo.net/revolving-perishable-stool/index.html</link>
-            <guid isPermaLink="false">b4f44ee7-fee8-452f-a2bb-3040f7567a98</guid>
-            <pubDate>Sun, 08 May 2016 11:50:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
