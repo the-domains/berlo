@@ -1,41 +1,53 @@
+typography_spectrum: 0.8486026257742196
+color:
+  saturation: 0.6258786905091256
+  brandStrength: 0.8685424306895584
+  lightness: 0.672633045585826
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0.6166547562461346
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4165325812064111
+analytics:
+  twitter: null
+  google: UA-634542-13
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/76ee8092-31df-4fb2-8ec0-10ff9870c868.png
 name: berlo.net
-favicon: null
-layout_spectrum: 0.36221
-typography_spectrum: 0.30388
-title: Genu
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: About Genu Berlo
+    id: 95c659e9-76dc-427b-a5a1-c6d1b5dfd20f
+    type: content
+  - name: 'Ia aia e a ei, io i-o iau!'
+    id: 83fb1586-b41b-414d-83f6-1dac345d6ef9
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce295202-4f4b-45be-8846-c685d9696403.png
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-634542-13
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#181818'
-    - '#606060'
-    - '#8d8d8d'
-    - '#89bfde'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0
+    permalink:
+      path: '/:title/'
+title: ''
+content: []
 purpose: []
