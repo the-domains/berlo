@@ -1,4 +1,3 @@
-layout_spectrum: 0.5836107737059234
 typography_spectrum: 0.42167954753217574
 color:
   saturation: 0.6488204577413047
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5836107737059234
 analytics:
   twitter: null
   google: UA-634542-13
@@ -30,9 +30,6 @@ cta:
 navigation:
   - name: About Genu Berlo
     id: 95c659e9-76dc-427b-a5a1-c6d1b5dfd20f
-    type: content
-  - name: 'Ia aia e a ei, io i-o iau!'
-    id: 83fb1586-b41b-414d-83f6-1dac345d6ef9
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce295202-4f4b-45be-8846-c685d9696403.png
