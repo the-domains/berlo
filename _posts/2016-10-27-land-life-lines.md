@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-11-01T20:03:00.124Z'
+datePublished: '2016-11-17T16:54:09.954Z'
 sourcePath: _posts/2016-10-27-land-life-lines.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-01T20:02:59.218Z'
+dateModified: '2016-11-17T16:54:09.380Z'
 title: Land Life Lines
 publisher: {}
 description: 'Editions: 2013, 2014, 2015, 2016'
 starred: false
-_type: Blurb
+url: land-life-lines/index.html
+_type: Article
 
 ---
 # Land Life Lines
