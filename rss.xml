@@ -4,9 +4,9 @@
         <description><![CDATA[berlo.net]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Nov 2016 09:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2016 09:39:37 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Nov 2016 09:32:22 GMT</pubDate>
+        <pubDate>Tue, 22 Nov 2016 09:39:31 GMT</pubDate>
         <item>
             <title><![CDATA[Land Life]]></title>
             <description><![CDATA[<article><h1>Land Life</h1><p>Editions: 2013, 2014, 2015, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63246486-a93e-44b3-8307-64d409529a1c.jpg"></article>]]></description>
@@ -69,6 +69,13 @@
             <link>http://berlo.net/roberto-rabanne-snowboards/index.html</link>
             <guid isPermaLink="false">c4c263f6-6ff2-4783-b552-ce2c1490959b</guid>
             <pubDate>Tue, 06 Sep 2016 16:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smoke-Fire Sequence]]></title>
+            <description><![CDATA[<article><h1>Smoke-Fire Sequence</h1><p>Ghirdoveni 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f81f1ad91568d2bad44c6f1a359e830494fba3b8.jpg"></article>]]></description>
+            <link>http://berlo.net/smoke-fire-sequencea-study-of-the-very-short-and-volatile-ma/index.html</link>
+            <guid isPermaLink="false">9acc8d8b-0159-465a-ac7d-fdd0023b97c1</guid>
+            <pubDate>Tue, 22 Nov 2016 09:39:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
