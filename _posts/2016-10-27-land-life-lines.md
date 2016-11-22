@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-11-22T09:32:19.025Z'
+datePublished: '2016-11-22T09:42:36.885Z'
 sourcePath: _posts/2016-10-27-land-life-lines.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-22T09:32:18.268Z'
+dateModified: '2016-11-22T09:42:36.139Z'
 title: Land Life
 publisher: {}
-description: 'Editions: 2013, 2014, 2015, 2016'
+description: 'Editions: 2013, 2014, 2015, 2016, 2017'
 starred: false
 url: land-life-lines/index.html
 _type: Article
@@ -16,7 +16,7 @@ _type: Article
 ---
 # Land Life
 
-Editions: 2013, 2014, 2015, 2016
+Editions: 2013, 2014, 2015, 2016, 2017
 
 The ongoing project series consists of building structures to mark harmony with nature and raise consciousness about egocentric, artificial and eccentric use of human inhabited land.
 
