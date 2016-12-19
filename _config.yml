@@ -23,6 +23,7 @@ analytics:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/76ee8092-31df-4fb2-8ec0-10ff9870c868.png
 name: berlo.net
+url: 'http://berlo.net'
 cta:
   bucket: null
   version: null
