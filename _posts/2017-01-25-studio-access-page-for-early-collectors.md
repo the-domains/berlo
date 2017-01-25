@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: Galleries and interested Collectors early access page
-dateModified: '2017-01-25T15:50:05.350Z'
-datePublished: '2017-01-25T15:50:06.588Z'
-title: 'Genu Berlo - Studio Snapshots '
+dateModified: '2017-01-25T15:50:28.631Z'
+datePublished: '2017-01-25T15:50:29.621Z'
+title: Genu Berlo - Studio Snapshots
 author: []
 publisher: {}
 via: {}
@@ -15,6 +15,9 @@ url: studio-access-page-for-early-collectors/index.html
 _type: Article
 
 ---
+# Genu Berlo - Studio Snapshots
+
+Galleries and interested Collectors early access page
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e127acf500f985f192882c4c0d1608bf/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5b1ca359-643f-40d6-9678-da4e907adc72.jpg&x=0&y=0)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/464d1cb41bc8d48c242cf4e2978a1878cd4fd4a1.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcebbdc25b72a723f5ee1f420996bf1cf220c91c.jpg)
@@ -65,7 +68,3 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/76653f9bf0f1fc1db2d38cadf12d562e02f3ae09.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3defb0a24258ed0bc321ad9d24d4539f25900d8b.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1d567b9a0dc2db5bd92e83b6177fb2ac7d5e475.jpg)
-
-# Genu Berlo - Studio Snapshots 
-
-Galleries and interested Collectors early access page
