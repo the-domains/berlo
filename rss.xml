@@ -4,9 +4,16 @@
         <description><![CDATA[berlo.net]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Mar 2017 17:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2017 17:51:49 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Mar 2017 17:50:17 GMT</pubDate>
+        <pubDate>Tue, 07 Mar 2017 17:51:43 GMT</pubDate>
+        <item>
+            <title><![CDATA[Hora 2017]]></title>
+            <description><![CDATA[<h1>Hora 2017</h1>,<p>by Genu Berlo</p>,<p><em>private collection of Bogdan Tăut</em></p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5939175e-750a-47f3-9692-7b32b862317a.jpg">]]></description>
+            <link>http://berlo.net/hora-2017/index.html</link>
+            <guid isPermaLink="false">58ca5ca7-0d3f-4751-9d30-c16b37a1a542</guid>
+            <pubDate>Tue, 07 Mar 2017 17:40:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Land Life]]></title>
             <description><![CDATA[<h1>Land Life</h1>,<p>Edition: 2017</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95f163b9-0f18-4f39-9f25-930f082fc95f.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/582efdad-dd2a-4dc0-98af-88d9b30c603b.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bafdb82d-9179-499a-92af-9450b02f4503.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef7b4de9-2277-470a-9c04-b39e931cb4aa.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>http://berlo.net/revolving-perishable-stool/index.html</link>
             <guid isPermaLink="false">b4f44ee7-fee8-452f-a2bb-3040f7567a98</guid>
             <pubDate>Tue, 13 Sep 2016 17:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roberto Rabanne Snowboards]]></title>
-            <description><![CDATA[<p>Roberto Rabanne &amp; Genu Snowboards</p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06148b615fa26670aed0300f597b94fda4fd73a2.jpg">,<p>Project dating back in 2005</p>]]></description>
-            <link>http://berlo.net/roberto-rabanne-snowboards/index.html</link>
-            <guid isPermaLink="false">c4c263f6-6ff2-4783-b552-ce2c1490959b</guid>
-            <pubDate>Tue, 06 Sep 2016 16:04:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
