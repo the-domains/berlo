@@ -4,9 +4,9 @@
         <description><![CDATA[berlo.net]]></description>
         <link>http://berlo.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Mar 2017 21:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2017 15:23:40 GMT</lastBuildDate>
         <atom:link href="http://berlo.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Mar 2017 21:55:54 GMT</pubDate>
+        <pubDate>Mon, 13 Mar 2017 15:23:35 GMT</pubDate>
         <item>
             <title><![CDATA[Hora 2017]]></title>
             <description><![CDATA[<h1>Hora 2017</h1>,<p>oil on canvas</p>,<p>by Genu Berlo</p>,<p><em>private collection of Bogdan Tăut</em></p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5939175e-750a-47f3-9692-7b32b862317a.jpg">]]></description>
@@ -20,6 +20,13 @@
             <link>http://berlo.net/land-life/index.html</link>
             <guid isPermaLink="false">95cd2ec4-ada0-4bbd-be48-9dd04b547259</guid>
             <pubDate>Tue, 07 Mar 2017 17:49:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Be still, and know that I am]]></title>
+            <description><![CDATA[<h1>Be still, and know that I am</h1>,<p>Wood and Nails - 2013 Bucuresti</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6ccb7e1-0527-4c92-9ec2-a37989bfedfd.jpg">]]></description>
+            <link>http://berlo.net/be-still-and-know-that-i-am/index.html</link>
+            <guid isPermaLink="false">b78214de-3462-44ac-a84f-6dc764393c98</guid>
+            <pubDate>Mon, 13 Mar 2017 15:22:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Land Life]]></title>
@@ -69,13 +76,6 @@
             <link>http://berlo.net/ia-aia-e-a-ei-io-i-o-iau/index.html</link>
             <guid isPermaLink="false">2bea24b3-a7b4-4c5d-bc4f-a8161582ce11</guid>
             <pubDate>Wed, 12 Oct 2016 15:48:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revolving Perishable Stool]]></title>
-            <description><![CDATA[<h1>Revolving Perishable Stool</h1>,<p>22 kraft stools were designed and produced by Genu for Rampa's "The lower Depths" play by Maxim Gorky</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9e87970-fb45-46e9-816d-41a70cca3bae.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c5a91f0-05c6-4c01-ae7a-ad45d290ef91.jpg">]]></description>
-            <link>http://berlo.net/revolving-perishable-stool/index.html</link>
-            <guid isPermaLink="false">b4f44ee7-fee8-452f-a2bb-3040f7567a98</guid>
-            <pubDate>Tue, 13 Sep 2016 17:32:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
