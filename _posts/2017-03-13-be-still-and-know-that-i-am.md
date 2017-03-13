@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Wood and Nails - 2013 Bucuresti
-dateModified: '2017-03-13T15:22:29.341Z'
-datePublished: '2017-03-13T15:22:29.962Z'
+dateModified: '2017-03-13T15:27:06.210Z'
+datePublished: '2017-03-13T15:27:06.356Z'
 title: 'Be still, and know that I am'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-13-be-still-and-know-that-i-am.md
 starred: false
 datePublishedOriginal: '2017-03-13T15:22:29.962Z'
-sourcePath: _posts/2017-03-13-be-still-and-know-that-i-am.md
 url: be-still-and-know-that-i-am/index.html
 _type: Article
 
