@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Wood and Nails Sculpture - 2013 Bucuresti
-dateModified: '2017-03-29T16:33:38.134Z'
-datePublished: '2017-03-29T16:33:38.425Z'
+dateModified: '2017-03-31T20:24:03.564Z'
+datePublished: '2017-03-31T20:24:04.348Z'
 title: 'Be still like a bee, and know that I am'
 author: []
 publisher: {}
