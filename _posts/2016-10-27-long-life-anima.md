@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-10-27T15:44:53.892Z'
+datePublished: '2017-03-31T20:24:04.341Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-27T15:44:52.907Z'
+dateModified: '2017-03-31T20:24:03.564Z'
 title: Long life anima
 publisher: {}
 description: Linocut pressed archetypical life study
 hasPage: true
 sourcePath: _posts/2016-10-27-long-life-anima.md
 starred: false
+datePublishedOriginal: '2016-10-27T15:44:53.892Z'
 url: long-life-anima/index.html
 _type: Article
 
