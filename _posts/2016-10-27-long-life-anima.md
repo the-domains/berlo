@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-03-31T20:24:04.341Z'
+datePublished: '2017-07-09T22:46:28.790Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-03-31T20:24:03.564Z'
+dateModified: '2017-07-09T22:46:28.201Z'
 title: Long life anima
 publisher: {}
 description: Linocut pressed archetypical life study
