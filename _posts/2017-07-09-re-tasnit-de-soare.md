@@ -1,14 +1,14 @@
 ---
 publisher: {}
-dateModified: '2017-07-09T23:00:26.003Z'
+dateModified: '2017-07-09T23:01:04.403Z'
 via: {}
 description: >-
   Renée because I know Google translate doesn't do any good I will translanguage
   my article for you
-title: Re țâșnit de soare
+title: Rețâșnit de soare
 inFeed: true
 author: []
-datePublished: '2017-07-09T23:00:26.581Z'
+datePublished: '2017-07-09T23:01:04.990Z'
 sourcePath: _posts/2017-07-09-re-tasnit-de-soare.md
 hasPage: true
 starred: true
@@ -17,7 +17,7 @@ url: re-tasnit-de-soare/index.html
 _type: Article
 
 ---
-# Re țâșnit de soare
+# Rețâșnit de soare
 
 Renée because I know Google translate doesn't do any good I will translanguage my article for you
 
