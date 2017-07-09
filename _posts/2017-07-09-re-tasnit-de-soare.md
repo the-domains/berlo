@@ -1,18 +1,20 @@
 ---
 publisher: {}
-dateModified: '2017-07-09T22:46:28.201Z'
+dateModified: '2017-07-09T23:00:26.003Z'
 via: {}
 description: >-
   Renée because I know Google translate doesn't do any good I will translanguage
   my article for you
-title: "Re țâșnit\_de soare"
+title: Re țâșnit de soare
 inFeed: true
 author: []
-datePublished: '2017-07-09T22:46:28.556Z'
+datePublished: '2017-07-09T23:00:26.581Z'
 sourcePath: _posts/2017-07-09-re-tasnit-de-soare.md
+hasPage: true
 starred: true
 datePublishedOriginal: '2017-07-09T22:44:37.993Z'
-_type: Blurb
+url: re-tasnit-de-soare/index.html
+_type: Article
 
 ---
 # Re țâșnit de soare
@@ -25,7 +27,7 @@ Asemeni chiar dacă pe alocuri voi da referințe la anumiți uite persoane anumi
 
 Acest articol de asemeni nu este o pledoarie a faptului că pot să mentally zZz idei
 
-Și nici nu urmărește să spună ceva foarte clar este pur și simplu o dimineață în care soarele a țâșnit iar conștiința mea ață șnit împreună cu soarele, 
+Și nici nu urmărește să spună ceva foarte clar este pur și simplu o dimineață în care soarele a țâșnit iar conștiința mea ață șnit împreună cu soarele,
 
 Cinci dimineața luceafărul de dimineață pe cer și sco modele satului mă trezesc brusc mi se scoală conștiința toate simțurile sunt automat treze și tunate la toate sunetele și senzațiile afară
 
@@ -55,7 +57,7 @@ Orice formă de manifestare a minții duce la acțiuni care duc la alterarea exi
 
 Fundamental alte rațiile sunt sonore verb iale vibrațional dar în mod acesta este modul micro dar în mod macro alte relațiile sunt picturale.
 
-înțelesurile construite pe sonor și pe cuvânt se numesc picturi. Este ca atunci cand citești o carte si cu toate ca folosește sunetul cuvintelor, mintea produce întelesul , care este picturalul informațional 
+înțelesurile construite pe sonor și pe cuvânt se numesc picturi. Este ca atunci cand citești o carte si cu toate ca folosește sunetul cuvintelor, mintea produce întelesul , care este picturalul informațional
 
 Se face ‪6:00‬ bunicul se trezește il ajut să încarce mașina pleacă într-o misiune în bărăgan
 
@@ -83,7 +85,7 @@ Am așezat două pânze vechi care le-am găsit în camera nouă în două felur
 
 Unul este cu fața la perete și al doilea este pus pe geam lumină transpare prin pânză Mă gândesc dacă l-a făcut cineva cel puțin unul dintre ele nu cred
 
-Deja mă plictisesc ring articolul ăsta dar îmi dau seama că tre să-l termin important 
+Deja mă plictisesc ring articolul ăsta dar îmi dau seama că tre să-l termin important
 
 pledoaria de Arte oști și critici de la momentul ăsta o să fie interesați de el
 
