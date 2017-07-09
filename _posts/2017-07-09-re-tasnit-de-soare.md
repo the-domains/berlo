@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-07-09T22:18:18.792Z'
+dateModified: '2017-07-09T22:44:37.780Z'
 via: {}
 description: >-
   Renée because I know Google translate doesn't do any good I will translanguage
@@ -8,10 +8,10 @@ description: >-
 title: "Re țâșnit\_de soare"
 inFeed: true
 author: []
-datePublished: '2017-07-09T22:18:51.186Z'
-starred: true
-datePublishedOriginal: '2017-07-09T22:18:51.186Z'
+datePublished: '2017-07-09T22:44:37.993Z'
 sourcePath: _posts/2017-07-09-re-tasnit-de-soare.md
+datePublishedOriginal: '2017-07-09T22:44:37.993Z'
+starred: true
 _type: Blurb
 
 ---
