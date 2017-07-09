@@ -1,21 +1,21 @@
 ---
 publisher: {}
-dateModified: '2017-07-09T06:44:37.521Z'
+dateModified: '2017-07-09T22:18:18.792Z'
 via: {}
 description: >-
   Renée because I know Google translate doesn't do any good I will translanguage
   my article for you
-title: Re țâșnit de soare
+title: "Re țâșnit\_de soare"
 inFeed: true
 author: []
-datePublished: '2017-07-09T06:45:22.852Z'
+datePublished: '2017-07-09T22:18:51.186Z'
 starred: true
-datePublishedOriginal: '2017-07-09T06:45:22.852Z'
+datePublishedOriginal: '2017-07-09T22:18:51.186Z'
 sourcePath: _posts/2017-07-09-re-tasnit-de-soare.md
 _type: Blurb
 
 ---
-# **Re țâșnit de soare**
+# Re țâșnit de soare
 
 Renée because I know Google translate doesn't do any good I will translanguage my article for you
 
@@ -57,7 +57,7 @@ Fundamental alte rațiile sunt sonore verb iale vibrațional dar în mod acesta 
 
 înțelesurile construite pe sonor și pe cuvânt se numesc picturi. Este ca atunci cand citești o carte si cu toate ca folosește sunetul cuvintelor, mintea produce întelesul , care este picturalul informațional 
 
-Se face 6:00 bunicul se trezește il ajut să încarce mașina pleacă într-o misiune în bărăgan
+Se face ‪6:00‬ bunicul se trezește il ajut să încarce mașina pleacă într-o misiune în bărăgan
 
 A plecat închid porțile mă întorc încerc să ațipesc dar nu reușesc copacul din colț gradinii mă cheamă din nou
 
@@ -91,10 +91,10 @@ Cam basul întors la perete cu fața la perete reprezintă sfârșitul discuție
 
 reprezinte mintea care se închide și mintea care se deschide către noi senzații
 
-Pe spatele cam vasului care întors cu fața la perete scrie des is nat am vrut să ieși în stradă
+Pe spatele cam vasului care întors cu fața la perete scrie : des is nat am vrut să ieși în stradă
 
 This is not a conversation starter
 
-Berlo
+Genu Berlo
 
 2017
