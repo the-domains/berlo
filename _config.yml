@@ -1,29 +1,31 @@
-layout_spectrum: 0.7236499659060547
-typography_spectrum: 0.7453418466203505
+typography_spectrum: 0.710404423734376
+content_rating:
+  adult: false
 color:
-  saturation: 0.6465149556716332
-  brandStrength: 0.5849969309798008
-  lightness: 0.6703391939473551
+  saturation: 0.6446373914470804
+  brandStrength: 0.5840867544069775
+  lightness: 0.9554241466395889
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 0.3981141967035941
+  rhythmicContrast: 0.3912419151400428
 github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.2783495639656477
 analytics:
   twitter: null
   google: UA-634542-13
   facebook: null
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/76ee8092-31df-4fb2-8ec0-10ff9870c868.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e60ffeb-f515-42e8-8e99-5addea9c3942.png
 name: berlo.net
-url: 'http://berlo.net'
+url: 'http://berlo.net/'
 cta:
   bucket: null
   version: null
@@ -32,8 +34,11 @@ navigation:
   - name: About Genu Berlo
     id: 95c659e9-76dc-427b-a5a1-c6d1b5dfd20f
     type: content
+  - name: '@genuberlo'
+    url: 'https://www.instagram.com/genuberlo/'
+    type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce295202-4f4b-45be-8846-c685d9696403.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/109cbf35-1947-463c-a51a-3e22439bf76c.png
 collections:
   - index:
       path: /
